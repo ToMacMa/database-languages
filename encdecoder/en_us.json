@@ -1,0 +1,21 @@
+{
+    "error1": "Run this program again.",
+    "error2": "An error has occured.",
+
+
+    "prompt1": "Which do you want to do?\n Type enc for encoding.\n Type dec for decoding.\n",
+    "prompt2": "On file or not?\n Write file or text.",
+
+    "button1Text": "Encrypt and decrypt",
+    "button2Text": "File encrypt and decrypt",
+    
+    "toEnc": "To encrypt",
+    "toDec": "To decrypt",
+    "title": "GUI encryptor and decryptor.",
+
+    "textEncode": "Text to encode:\n",
+    "textDecode": "Text to decode:\n",
+    "filePath": "File path:",
+
+    "invalid": "Invalid option."
+}

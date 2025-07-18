@@ -1,0 +1,21 @@
+{
+    "error1": "Uruchom program ponownie.",
+    "error2": "Wystąpił problem.",
+
+
+    "prompt1": "Które chcesz?\n Napisz enc po zaszyfrowywanie.\n Napisz dec po odszyfrowywanie.\n",
+    "prompt2": "Napliku czy nie?\n Napisz file lub text.",
+
+    "button1Text": "Zaszyfruj i odszyfruj",
+    "button2Text": "Plikowe zaszyfrowywanie i odszyfrowywanie",
+    
+    "toEnc": "Zaszyfrować:",
+    "toDec": "Odszyfrować:",
+    "title": "Graficzny zaszyfrowywator i odszyfrowywator.",
+
+    "textEncode": "Tekst do zaszyfrowywania:\n",
+    "textDecode": "Tekst do odszyfrowywania:\n",
+    "filePath": "Ścieżka pliku:",
+
+    "invalid": "Niepoprawna opcja."
+}

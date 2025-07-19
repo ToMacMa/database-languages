@@ -8,6 +8,8 @@
 
     "button1Text": "Zaszyfruj i odszyfruj",
     "button2Text": "Plikowe zaszyfrowywanie i odszyfrowywanie",
+    "button3Text": "Refresh",
+    "button4Text": "Change language",
     
     "toEnc": "Zaszyfrować:",
     "toDec": "Odszyfrować:",

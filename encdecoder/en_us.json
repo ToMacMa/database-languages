@@ -8,6 +8,8 @@
 
     "button1Text": "Encrypt and decrypt",
     "button2Text": "File encrypt and decrypt",
+    "button3Text": "Refresh",
+    "button4Text": "Change language",
     
     "toEnc": "To encrypt",
     "toDec": "To decrypt",
